@@ -21,7 +21,7 @@
             }
 
             body {
-                margin: 0;
+                margin: 0,0;
                 padding: 0;
                 width: 100%;
                 display: table;
